@@ -8,25 +8,11 @@
   "animeInfoApi": {
     "url": "https://kitsu.io/api/edge/characters"
   },
-  "mageApi": {
-    "url": "https://www.samirxpikachu.run.place/mageDef"
-  },
   "genApi": {
     "url": "https://team-calyx.onrender.com/gen"
   },
   "aiServices": [
-    {
-      "url": "https://ai-tools.replit.app/gpt",
-      "params": {
-        "prompt": "",
-        "uid": ""
-      }
-    },
-    {
-      "url": "https://ai-chat-gpt-4-lite.onrender.com/api/hercai",
-      "params": {
-        "question": ""
-      }
-    }
+    { "url": "https://ai-tools.replit.app/gpt", "params": { "prompt": "", "uid": "" } },
+    { "url": "https://ai-chat-gpt-4-lite.onrender.com/api/hercai", "params": { "question": "" } }
   ]
 }
