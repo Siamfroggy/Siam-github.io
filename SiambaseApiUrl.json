@@ -1,7 +1,6 @@
 {
-  "pixelApi": {
-    "url": "https://api.pexels.com/v1/search",
-    "apikey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa"
+  "genderApi": {
+    "url": "https://api.genderize.io",
   },
   "animeHotApi": {
     "url": "https://api.waifu.pics/sfw/waifu"
